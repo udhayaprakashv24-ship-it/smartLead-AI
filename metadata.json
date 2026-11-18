@@ -1,0 +1,6 @@
+{
+  "name": "SmartLead AI",
+  "description": "SmartLead AI is a modern educational coaching institute offering mentor-led programs in Artificial Intelligence, Data Science, Web Development, Python Programming, Full Stack Development, and Digital Marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
